@@ -13,13 +13,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0565_001.yaml, hash: 'sha256:e5eacc1f1e2a20d083435ed0a18afe4edf25bea7db979d7f48267988d0853a5f'}
-  - {seq: 2, filename: KR6v0565_002.yaml, hash: 'sha256:c67a228df7e016d19a65f3f45e4236095c25e7a802a508a4cabebedcfb3d397b'}
-  - {seq: 3, filename: KR6v0565_003.yaml, hash: 'sha256:be4a2c8a505a68e4a29cbd2387bc22abb207cd64202bbddbc6158cedb27e810c'}
+  - {seq: 1, filename: KR6v0565_001.yaml, hash: 'sha256:99c917530724cbd53afa771a7f8c5f0add069aef94c18562bcad82da907baf5e'}
+  - {seq: 2, filename: KR6v0565_002.yaml, hash: 'sha256:7380c6f2196e5d604ec2268ca88e27946a7fa72e6c124fd9765a823bdbcd4be3'}
+  - {seq: 3, filename: KR6v0565_003.yaml, hash: 'sha256:4b4cba3ff45fd0a54beaa3c316bc95a4682c48a6a543e9d28c45e03e3d163cae'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0565_001.markers.yaml, hash: 'sha256:701c265608797d36931daad9fa670bc304c1063eff6ef9d2de8ed0d231c71ad4'}
-  - {seq: 2, role: markers, filename: assets/KR6v0565_002.markers.yaml, hash: 'sha256:6690a4f35dc3c2d9f1d7eb13f38de084ba7ca16722fdaf12604a1a0b01e599f8'}
-  - {seq: 3, role: markers, filename: assets/KR6v0565_003.markers.yaml, hash: 'sha256:7b8e8ddf42df326f83250c9a5bc2292e73decd164254f1fa589eb4c1b93b5154'}
+  - {seq: 1, role: markers, filename: assets/KR6v0565_001.markers.yaml, hash: 'sha256:cdeebbf070a6e474e4d395adb1545f82b6b1243ed10c65bbb1eb819fdbe480f1'}
+  - {seq: 2, role: markers, filename: assets/KR6v0565_002.markers.yaml, hash: 'sha256:2c5ce5538c2b9692a7cc5f9013c45b2b70f2512f3d75d211b00056c4e6ce8941'}
+  - {seq: 3, role: markers, filename: assets/KR6v0565_003.markers.yaml, hash: 'sha256:1887568d9c5717c5d12093ad4fc6f64f4b3fcb2f2dd16663b1e3faa1f0e0446a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -4751,9 +4751,6 @@ table_of_contents:
   label: 二　顯殊勝者三事
   type: mulu
   level: 1
-hash: sha256:0c7b08bfdf435d9633c849d78b4f59ff82f032e93b4130187032e491fead1cbc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e667375957fc4f8bff7518536652d06090257fa9c4e4d723aa00945647dad38b
 editions:
 - short: TX
