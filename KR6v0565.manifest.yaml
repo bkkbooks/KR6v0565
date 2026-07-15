@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0565/v1
 canonical_location: https://kanripo.org/bkk/KR6v0565/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 太虛大師全書．第八編　律釋
   source:
@@ -13,13 +13,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0565_001.yaml, hash: 'sha256:99c917530724cbd53afa771a7f8c5f0add069aef94c18562bcad82da907baf5e'}
-  - {seq: 2, filename: KR6v0565_002.yaml, hash: 'sha256:7380c6f2196e5d604ec2268ca88e27946a7fa72e6c124fd9765a823bdbcd4be3'}
-  - {seq: 3, filename: KR6v0565_003.yaml, hash: 'sha256:4b4cba3ff45fd0a54beaa3c316bc95a4682c48a6a543e9d28c45e03e3d163cae'}
+  - {seq: 1, filename: KR6v0565_001.yaml, hash: 'sha256:f9adf050b7d64e498322d84fa4ad4748883682853889932895e3c05f83f37348'}
+  - {seq: 2, filename: KR6v0565_002.yaml, hash: 'sha256:a5c20dce21a3fe366b17f63032e0e6b924ffa901f41a516cf049a868dac4898c'}
+  - {seq: 3, filename: KR6v0565_003.yaml, hash: 'sha256:d2d06e56b5e82820d48a26ba00fd96015d94ac2b80f74f878c8a60622a2fd57c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0565_001.markers.yaml, hash: 'sha256:cdeebbf070a6e474e4d395adb1545f82b6b1243ed10c65bbb1eb819fdbe480f1'}
-  - {seq: 2, role: markers, filename: assets/KR6v0565_002.markers.yaml, hash: 'sha256:2c5ce5538c2b9692a7cc5f9013c45b2b70f2512f3d75d211b00056c4e6ce8941'}
-  - {seq: 3, role: markers, filename: assets/KR6v0565_003.markers.yaml, hash: 'sha256:1887568d9c5717c5d12093ad4fc6f64f4b3fcb2f2dd16663b1e3faa1f0e0446a'}
+  - {seq: 1, role: markers, filename: assets/KR6v0565_001.markers.yaml, hash: 'sha256:0ba3eca235112adbd82ae3f014b151038f2a7724bc34ac99176f4aa216ee0908'}
+  - {seq: 2, role: markers, filename: assets/KR6v0565_002.markers.yaml, hash: 'sha256:89ca9706f462b24ced30955cea82603665587ade6196068b9528714b920d2cbf'}
+  - {seq: 3, role: markers, filename: assets/KR6v0565_003.markers.yaml, hash: 'sha256:70a557005a58eb3d0694bb15ef6d1b96ae6900fe7a9270164a606037c053be8c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -4751,6 +4751,9 @@ table_of_contents:
   label: 二　顯殊勝者三事
   type: mulu
   level: 1
-hash: sha256:e667375957fc4f8bff7518536652d06090257fa9c4e4d723aa00945647dad38b
+hash: sha256:db3b45d1e97f00e95adf3c9526f0824f4d69c8b410a725f8c32d813ab7e9ea75
 editions:
 - short: TX
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
